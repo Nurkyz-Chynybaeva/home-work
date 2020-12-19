@@ -66,22 +66,26 @@ h3{
 }
 
 .container{
+
   border: 1px solid;
   height: 300px;
   display: flex;
   flex-direction: column;
   text-align: center;
-  height: 150px;
-  width: 400px;
+  height: 180px;
+  width: 270px;
 }
 .name{
  
 }
 .up{
+  background-color: white;
    color: rebeccapurple;
    font-size: 35px;
+  
 }
 .p{
   color: rgb(113, 184, 184);
-  
+  font-size: 17px;
+  margin: 10px 10px;
 }
