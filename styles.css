@@ -30,12 +30,12 @@ header{
   
 }
 h1{
-  color: rgb(236, 195, 202);
+  color: rgb(88, 92, 116);
   font-size: 65px;
   font-weight: 400;
 }
 .main{
-  color: antiquewhite;
+  color: rgb(110, 113, 128);
   font-size: 40px;
 }
 .n-h2-h3{
@@ -43,12 +43,16 @@ h1{
 }
 .number{
   font-size: 130px;
-  color: orangered;
-}
-.practic{
   color: orange;
 }
-
+.practic{
+  font-size: 40px;
+  color: orange;
+}
+h3{
+  color: rgb(110, 113, 128);
+  font-size: 30px;
+}
 
 
 
