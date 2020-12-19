@@ -113,11 +113,19 @@ h3{
   margin-right: 10px;
 }
 .up-3{
-
+margin-bottom: 37px;
   border: 0.5px solid lightgrey;
   background-color: white;
-   color: rebeccapurple;
+   color: orange;
+   font-size: 27px;
+}
+.up-4{
+  margin-bottom: 37px;
+  border: 0.5px solid lightgrey;
+  background-color: white;
+   color: orange;
    font-size: 30px;
+   height: 250px;
 }
 
 
@@ -125,4 +133,16 @@ h3{
   color: rgb(113, 184, 184);
   font-size: 17px;
   margin: 10px 10px;
+}
+.container-1{
+  margin: 20px 20px;
+  justify-content: space-evenly;
+   border: 2px solid lightgray;
+   border-radius: 5px;
+
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   height: 230px;
+   width: 270px;
 }
