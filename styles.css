@@ -20,6 +20,7 @@ header{
   justify-content: space-between;
 }
 .right-box{
+  
   display: flex;
   flex-direction: column;
   max-width: 45%;
@@ -59,7 +60,7 @@ h3{
 
 .left-box{
   display: flex;
-  flex-direction: column;
+  justify-content: space-between  ;
   max-width: 40%;
   margin: 15px 15px;
 }
@@ -69,7 +70,18 @@ h3{
   height: 300px;
   display: flex;
   flex-direction: column;
+  text-align: center;
+  height: 150px;
+  width: 400px;
 }
 .name{
-  max-height: 30px;
+ 
+}
+.up{
+   color: rebeccapurple;
+   font-size: 35px;
+}
+.p{
+  color: rgb(113, 184, 184);
+  
 }
