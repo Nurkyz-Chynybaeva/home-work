@@ -61,12 +61,16 @@ h3{
 .left-box{
   display: flex;
   justify-content: space-between  ;
-  max-width: 40%;
+  max-width: 60%;
   margin: 15px 15px;
 }
-
+.biggest-container{
+  display: flex;
+ 
+}
 .container{
-
+  margin: 0 20px;
+ justify-content: space-evenly;
   border: 1px solid;
   height: 300px;
   display: flex;
